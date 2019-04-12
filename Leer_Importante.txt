@@ -1,0 +1,7 @@
+Para su correcto funcionamiento debe tener actualizado este programa.
+www.riotercero.tk/radit.php
+
+No garantizamos el funcionamiento estable ya que se utiliza los datos externos y requieren la conexion a internet.
+Evite modificar el codigo en PHP ya que puede que deje de funcionar.
+Si tiene conocimientos de PHP puede verificar el codigo con un editor y modificarlo a su gusto.
+Siempre y cuando se respeten los autores del programa.
